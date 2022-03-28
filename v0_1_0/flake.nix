@@ -11,7 +11,6 @@
   inputs.src-pokereval-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-pokereval-v0_1_0.owner = "jasonlu7";
   inputs.src-pokereval-v0_1_0.repo  = "pokereval";
-  inputs.src-pokereval-v0_1_0.dir   = "";
   inputs.src-pokereval-v0_1_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
