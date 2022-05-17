@@ -44,11 +44,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651918315,
-        "narHash": "sha256-7aUpVqGmqqqwtvqbv/p+F66Wd6lPPIiyyt+mapqZuY8=",
+        "lastModified": 1652391447,
+        "narHash": "sha256-eQq10HXZv0YMX/9fo5mwfH295GdXvso5ZBUWYRH2txM=",
         "owner": "nim-nix-pkgs",
         "repo": "pokereval",
-        "rev": "2aa1e85e604fb9d109b6635af15050725f74cc1d",
+        "rev": "198367d6dac30b50b2aa412691df93f61badac47",
         "type": "github"
       },
       "original": {
@@ -71,11 +71,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1651918315,
-        "narHash": "sha256-7aUpVqGmqqqwtvqbv/p+F66Wd6lPPIiyyt+mapqZuY8=",
+        "lastModified": 1652391447,
+        "narHash": "sha256-eQq10HXZv0YMX/9fo5mwfH295GdXvso5ZBUWYRH2txM=",
         "owner": "nim-nix-pkgs",
         "repo": "pokereval",
-        "rev": "2aa1e85e604fb9d109b6635af15050725f74cc1d",
+        "rev": "198367d6dac30b50b2aa412691df93f61badac47",
         "type": "github"
       },
       "original": {
